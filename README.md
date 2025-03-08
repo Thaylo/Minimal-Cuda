@@ -1,5 +1,11 @@
 # GPU-Accelerated Simulations for Option Pricing
 
+## Objective
+
+To get started and showcase what I learned about CUDA and Financial Problems.
+
+## Summary
+
 This repository contains GPU-Accelerated Simulations for Option Pricing.
 
 What has been implemented:
